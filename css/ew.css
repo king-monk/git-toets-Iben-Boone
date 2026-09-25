@@ -9,3 +9,8 @@ body{
     background-color: var(--primary-color);
     font-family: var(--font-family);
 }
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
